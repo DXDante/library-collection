@@ -5,10 +5,11 @@
 ## 技术文档
 - [技术文档1(浏览器、JS、WEB性能、框架、Node、Linux、数据结构与算法)](https://github.com/amandakelake/blog)
 - [TypeScript 类型挑战集合](https://github.com/type-challenges/type-challenges)
+- [Vue 9 个性能优化技巧(个别思想 V3 同样适用)](https://github.com/Akryum/vue-9-perf-secrets/)
 
 
 ## 外链收集
-- [Vue 相关的各种生态库](https://github.com/vuejs/awesome-vue#components--libraries)
+- [Vue 相关各种生态库](https://github.com/vuejs/awesome-vue)
 
 
 ## 富文本
@@ -28,12 +29,15 @@
   一个强大的小程序富文本组件
 - [towxml](https://github.com/sbfkcel/towxml)
   一个可将HTML、Markdown转为微信小程序WXML(WeiXin Markup Language)的渲染库。用于解决在微信小程序中Markdown、HTML不能直接渲染的问题
-  
 
 
 ## 地图
 - [gcoord](https://github.com/hujiulong/gcoord)
   一个处理地理坐标系的JS库，用来修正百度地图、高德地图及其它互联网地图坐标系不统一的问题
+- [高德WEB地图SDK加载器](https://www.npmjs.com/package/@amap/amap-jsapi-loader)
+  amap-jsapi-loader 是高德开放平台官网提供的地图 JSAPI 的加载器，可帮助开发者快速定位、有效避免加载引用地图 JSAPI 各种错误用法。
+  [Vue使用文档](https://lbs.amap.com/api/javascript-api-v2/guide/abc/amap-vue)
+  [React使用文档](https://lbs.amap.com/api/javascript-api-v2/guide/abc/amap-react)
 
 
 ## 图表
@@ -70,8 +74,18 @@
   最小化字体, 指定字体文件指定文字字体输出
 
 
+## 动画
+- [anime](https://github.com/juliangarnier/anime)
+  一个轻量级JavaScript动画库，具有简单但功能强大的API。它可以使用CSS属性、SVG、DOM属性和JavaScript对象。
+
+
 ## 网络请求
-- [vue.draggable.next](https://github.com/SortableJS/vue.draggable.next)
+- [axios](https://github.com/axios/axios)
+  用于浏览器 和 node.js 的基于 Promise 的 HTTP 客户端
+- [fly](https://github.com/wendux/fly)
+  一个支持所有JavaScript运行环境的基于Promise的、支持请求转发、强大的http请求库。可以让您在多个端上尽可能大限度的实现代码复用。
+- [umi-request](https://github.com/umijs/umi-request)
+  网络请求库，基于 fetch 封装, 兼具 fetch 与 axios 的特点, 旨在为开发者提供一个统一的 api 调用方式, 简化使用, 并提供诸如缓存, 超时, 字符编码处理, 错误处理等常用功能.
 
 
 ## 工具
